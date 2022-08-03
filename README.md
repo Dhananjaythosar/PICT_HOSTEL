@@ -1,2 +1,2 @@
-# PICT_HOSTEL
+# PICT_HOSTEL_Automation
 Internship 
